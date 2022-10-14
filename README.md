@@ -6,3 +6,8 @@ Input:
    r, annual rate of interest
 output:
    simple interest = p*t*r
+   
+   Footer:
+   © 2022 XYZ, Inc.
+   to
+   © 2021 XYZ, 
