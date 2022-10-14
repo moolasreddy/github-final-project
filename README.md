@@ -7,7 +7,7 @@ Input:
 output:
    simple interest = p*t*r
    
-   Footer:
-   © 2022 XYZ, Inc.
-   to
-   © 2021 XYZ, Inc.
+Footer:
+© 2022 XYZ, Inc.
+to
+4© 2021 XYZ, Inc.
